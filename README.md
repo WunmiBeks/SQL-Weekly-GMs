@@ -1,5 +1,3 @@
-# SFMC-Scripts
-
 # SFMC Scripts Collection
 A collection of Simple AMPscript, SQL, and SSJS snippets for Salesforce Marketing Cloud.
 
