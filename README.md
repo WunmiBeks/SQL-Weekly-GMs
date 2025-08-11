@@ -1,7 +1,2 @@
-# SFMC Scripts Collection
-A collection of Simple AMPscript, SQL, and SSJS snippets for Salesforce Marketing Cloud.
-
-## Structure
-- **AMPscript/** – Dynamic content and personalization examples.
-- **SQL/** – Queries for audience segmentation and automation.
-- **SSJS/** – Server-side JavaScript for automation scripts.
+# SQL Queries for audience segmentation and automation.
+This repository contains SQL scripts related to various briefs and tasks for the Salesforce Marketing Cloud (SFMC) project. Each script is designed to address specific data queries, segmentations, or updates needed within the SFMC environment.
