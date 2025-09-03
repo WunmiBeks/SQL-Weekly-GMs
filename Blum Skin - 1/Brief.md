@@ -1,4 +1,4 @@
-# SPRING REFRESH CAMPAIGN BRIEF
+# Spring Refresh Campaign Brief 
 
 ## Overview
 The **Spring Refresh Campaign** is scheduled to launch this **Friday**.  
