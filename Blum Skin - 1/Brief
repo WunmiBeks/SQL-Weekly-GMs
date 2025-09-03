@@ -1,13 +1,25 @@
-We’ve got our Spring Refresh campaign going out this Friday, and I just need a quick audience pulled for the email send.
+# SPRING REFRESH CAMPAIGN BRIEF
 
-Basically, we want to target people who:
+## Overview
+The **Spring Refresh Campaign** is scheduled to launch this **Friday**.  
+This campaign requires a **targeted audience segment** for the email distribution.
 
-- are in Australia or New Zealand
-- haven’t bought anything in a while - maybe last 6 months?
-- and they have to be opted-in to email.
+---
 
-We’re planning to drop their first name into the subject line too, so if any of the names are all lowercase or look weird, can you fix that so it’s propercased?
+## Audience Criteria
+- Customers located in Australia or New Zealand
+- Customers who haven’t bought anything in a while - maybe last 6 months? 
+- Customers who are opted-in to email communications
 
-Also - we’re offering a 20% off coupon in the email. Feel free to just create one in the output like SPRING20 or something else that makes sense. We’ll pass that field over to the email team to use in the dynamic content.
+---
 
-DE - Customer_Master DE.
+## Personalization
+The subject line will dynamically include the customer’s first name.  
+- Ensure all first names are formatted in proper case to maintain consistency.  
+
+---
+
+## Offer
+The email will feature a **20% off coupon**.  
+- A sample coupon code such as **SPRING20** should be generated and included in the data extension.  
+- This field will be passed to the email team for use in dynamic content.  
