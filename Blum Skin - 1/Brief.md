@@ -4,20 +4,14 @@
 The **Spring Refresh Campaign** is scheduled to launch this **Friday**.  
 This campaign requires a **targeted audience segment** for the email distribution.
 
----
-
 ## Audience Criteria
 - Customers located in Australia or New Zealand
 - Customers who haven’t bought anything in a while - maybe last 6 months? 
 - Customers who are opted-in to email communications
 
----
-
 ## Personalization
 The subject line will dynamically include the customer’s first name.  
 - Ensure all first names are formatted in proper case to maintain consistency.  
-
----
 
 ## Offer
 The email will feature a **20% off coupon**.  
