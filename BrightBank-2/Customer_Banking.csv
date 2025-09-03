@@ -1,0 +1,51 @@
+SubscriberKey,FirstName,Email,Region,CardType,OutstandingBalance,Email_Consent,LastEngagementDate
+001,Chad,chad25@hotmail.com,NZ,Platinum,3620.5,TRUE,15/04/2025 10:51
+002,James,james95@yahoo.com,AU,Gold,1617.59,FALSE,21/01/2025 10:51
+003,Daniel,daniel67@hotmail.com,AU,Gold,4317.41,TRUE,17/04/2025 10:51
+004,kari,kari66@hotmail.com,NZ,Gold,844.87,FALSE,30/06/2025 10:51
+005,Manuel,manuel26@hotmail.com,NZ,Platinum,3190.8,FALSE,
+006,emily,emily93@yahoo.com,AU,Platinum,4962,TRUE,27/05/2025 10:51
+007,Michelle,michelle44@yahoo.com,AU,Gold,2330.43,FALSE,28/12/2024 10:51
+008,Kristen,kristen55@hotmail.com,NZ,Gold,1906.03,TRUE,
+009,Victoria,victoria65@yahoo.com,AU,Gold,4584.42,FALSE,
+010,JASON,jason87@gmail.com,AU,Silver,1226.99,TRUE,11/02/2025 10:51
+011,JIMMY,jimmy14@yahoo.com,NZ,Gold,3899.72,FALSE,18/03/2025 10:51
+012,michelle,michelle61@hotmail.com,US,Platinum,4569.73,FALSE,31/03/2025 10:51
+013,thomas,thomas99@gmail.com,AU,Gold,3497.07,FALSE,11/05/2025 10:51
+014,Elijah,elijah65@yahoo.com,US,Silver,1205.87,FALSE,
+015,marcus,marcus22@hotmail.com,AU,Gold,2270.13,FALSE,
+016,makayla,makayla72@yahoo.com,AU,Gold,2703.99,FALSE,22/06/2024 10:51
+017,Daniel,daniel30@hotmail.com,AU,Silver,4270.49,FALSE,27/12/2024 10:51
+018,Candice,candice46@hotmail.com,AU,Platinum,3721.93,TRUE,
+019,richard,richard71@gmail.com,NZ,Platinum,2530.27,FALSE,
+020,Amanda,amanda57@hotmail.com,AU,Silver,4457.92,FALSE,
+021,Thomas,thomas27@gmail.com,AU,Gold,608.01,TRUE,13/06/2025 10:51
+022,Angela,angela63@yahoo.com,AU,Gold,3266.38,FALSE,14/05/2025 10:51
+023,KELLY,kelly63@hotmail.com,AU,Gold,4413.27,FALSE,16/07/2025 10:51
+024,CATHY,cathy16@yahoo.com,AU,Gold,1789.87,TRUE,21/05/2025 10:51
+025,HALEY,haley96@gmail.com,AU,Gold,848.21,TRUE,19/01/2025 10:51
+026,Hannah,hannah38@yahoo.com,AU,Gold,4750.09,FALSE,4/02/2025 10:51
+027,Holly,holly91@yahoo.com,AU,Gold,2189.65,TRUE,23/04/2025 10:51
+028,MONICA,monica11@gmail.com,AU,Platinum,334.6,FALSE,23/10/2024 10:51
+029,Richard,richard72@hotmail.com,AU,Silver,2128.78,FALSE,4/04/2025 10:51
+030,AUSTIN,austin10@gmail.com,NZ,Gold,484.21,TRUE,15/06/2024 10:51
+031,Jennifer,jennifer68@yahoo.com,AU,Platinum,4458.99,TRUE,28/10/2024 10:51
+032,andrew,andrew63@hotmail.com,AU,Platinum,1316.91,TRUE,15/09/2024 10:51
+033,Vincent,vincent24@hotmail.com,AU,Silver,3781.44,TRUE,21/03/2025 10:51
+034,stacie,stacie76@yahoo.com,NZ,Gold,4834.42,TRUE,17/02/2025 10:51
+035,Kimberly,kimberly31@yahoo.com,AU,Gold,432.75,FALSE,14/12/2024 10:51
+036,rebecca,rebecca73@yahoo.com,AU,Platinum,3953.84,TRUE,26/11/2024 10:51
+037,barbara,barbara30@hotmail.com,NZ,Silver,4272.6,FALSE,30/06/2025 10:51
+038,madeline,madeline74@yahoo.com,NZ,Platinum,4071.86,TRUE,30/05/2025 10:51
+039,Michele,michele35@yahoo.com,AU,Silver,4406.6,TRUE,
+040,CHRISTOPHER,christopher38@hotmail.com,AU,Silver,724.9,TRUE,25/12/2024 10:51
+041,Jessica,jessica19@hotmail.com,US,Platinum,1991.78,FALSE,19/06/2024 10:51
+042,ELIZABETH,elizabeth94@hotmail.com,US,Silver,4022.88,FALSE,14/12/2024 10:51
+043,Shannon,shannon61@hotmail.com,US,Silver,4748.24,FALSE,13/07/2025 10:51
+044,Charles,charles51@gmail.com,US,Gold,3168.96,TRUE,
+045,Stephen,stephen52@gmail.com,US,Gold,2704.68,FALSE,5/01/2025 10:51
+046,Ashley,ashley31@yahoo.com,AU,Platinum,2867.42,TRUE,2/10/2024 10:51
+047,jessica,jessica83@yahoo.com,AU,Silver,4914.23,FALSE,
+048,CINDY,cindy50@hotmail.com,AU,Gold,278.77,TRUE,15/02/2025 10:51
+049,jessica,jessica61@yahoo.com,AU,Silver,3925.67,TRUE,
+050,John,john15@yahoo.com,AU,Gold,634.23,TRUE,8/08/2024 10:51
