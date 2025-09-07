@@ -1,0 +1,51 @@
+SubscriberKey,FirstName,Email,Region,MembershipType,VisitsLast30Days,Email_Consent,SignupDate,GoalPreference
+001,mallory,mallory852@gmail.com,Singapore,Student,2,True,,Endurance
+002,Andrea,andrea405@yahoo.com,Canada,Student,4,True,,Endurance
+003,Jesus,jesus735@hotmail.com,Canada,Premium,0,False,2023-06-23 22:50:04,Endurance
+004,Jamie,jamie744@yahoo.com,Canada,Premium,1,True,2024-01-12 22:50:04,Muscle Gain
+005,Morgan,morgan516@yahoo.com,USA,Premium,13,True,,Rehab
+006,Kathleen,kathleen709@hotmail.com,Canada,Premium,9,True,,Muscle Gain
+007,Jeffery,jeffery307@gmail.com,Singapore,Standard,12,True,2024-09-26 22:50:04,Weight Loss
+008,michael,michael118@gmail.com,USA,Student,1,False,2024-01-04 22:50:04,Muscle Gain
+009,Jennifer,jennifer118@hotmail.com,USA,Premium,15,True,,Weight Loss
+010,julie,julie712@yahoo.com,Canada,Premium,8,False,,Weight Loss
+011,VICTOR,victor299@yahoo.com,Canada,Standard,4,True,2025-05-13 22:50:04,General Fitness
+012,CODY,cody139@yahoo.com,Canada,Premium,15,False,2024-10-07 22:50:04,General Fitness
+013,jacob,jacob105@hotmail.com,Singapore,Student,13,True,2024-03-20 22:50:04,Muscle Gain
+014,Amanda,amanda686@yahoo.com,UK,Standard,13,True,2023-04-23 22:50:04,Weight Loss
+015,Spencer,spencer853@yahoo.com,USA,Student,7,False,2024-05-06 22:50:04,Endurance
+016,Lorraine,lorraine423@yahoo.com,Canada,Premium,6,False,2023-09-19 22:50:04,Muscle Gain
+017,Brandon,brandon304@gmail.com,USA,Premium,3,True,2025-04-23 22:50:04,General Fitness
+018,mark,mark371@yahoo.com,Singapore,Standard,5,True,,Weight Loss
+019,joshua,joshua832@yahoo.com,UK,Student,14,True,,Muscle Gain
+020,JOSEPH,joseph963@hotmail.com,Germany,Standard,1,False,2024-11-18 22:50:04,Muscle Gain
+021,Matthew,matthew317@yahoo.com,Canada,Student,6,False,2023-03-17 22:50:04,Weight Loss
+022,Justin,justin975@yahoo.com,USA,Student,12,True,2024-10-27 22:50:04,Muscle Gain
+023,Brian,brian823@gmail.com,USA,Student,6,True,2023-10-04 22:50:04,Muscle Gain
+024,Paul,paul108@yahoo.com,USA,Student,3,True,2024-07-05 22:50:04,Rehab
+025,Catherine,catherine225@hotmail.com,Germany,Student,0,True,,Muscle Gain
+026,Bradley,bradley592@gmail.com,USA,Standard,2,False,2024-08-26 22:50:04,Rehab
+027,Patricia,patricia975@yahoo.com,UK,Student,6,False,,Endurance
+028,brent,brent615@gmail.com,Germany,Premium,7,True,2025-03-12 22:50:04,Endurance
+029,LINDSAY,lindsay931@gmail.com,Germany,Student,12,False,,Endurance
+030,Paige,paige730@hotmail.com,USA,Student,5,False,2024-05-15 22:50:04,Weight Loss
+031,amy,amy859@gmail.com,Singapore,Premium,10,False,2025-05-11 22:50:04,Weight Loss
+032,Christina,christina668@hotmail.com,UK,Student,5,False,2025-01-24 22:50:04,Weight Loss
+033,edwin,edwin403@yahoo.com,Germany,Standard,12,False,2023-04-24 22:50:04,Weight Loss
+034,Rachel,rachel658@gmail.com,Germany,Premium,9,True,2023-02-26 22:50:04,Rehab
+035,Desiree,desiree367@yahoo.com,UK,Premium,1,False,2024-07-05 22:50:04,Muscle Gain
+036,alexander,alexander261@hotmail.com,Singapore,Student,1,False,2023-11-14 22:50:04,Weight Loss
+037,Theodore,theodore742@yahoo.com,Canada,Standard,2,True,,Rehab
+038,JESSICA,jessica738@yahoo.com,Singapore,Student,7,True,2024-11-27 22:50:04,Endurance
+039,MICHELLE,michelle492@yahoo.com,UK,Premium,8,False,,Muscle Gain
+040,THEODORE,theodore451@yahoo.com,USA,Student,2,True,2023-11-27 22:50:04,Endurance
+041,Vicki,vicki187@hotmail.com,UK,Premium,4,True,2023-09-05 22:50:04,Weight Loss
+042,lynn,lynn584@gmail.com,USA,Student,8,True,2023-05-30 22:50:04,Weight Loss
+043,Darryl,darryl583@gmail.com,Singapore,Student,5,True,,Weight Loss
+044,Jason,jason721@yahoo.com,USA,Premium,5,True,2023-09-30 22:50:04,General Fitness
+045,Victoria,victoria649@gmail.com,USA,Student,14,True,2024-06-22 22:50:04,Rehab
+046,John,john371@yahoo.com,USA,Standard,10,True,2025-05-09 22:50:04,Endurance
+047,SEAN,sean914@yahoo.com,Germany,Student,2,True,2023-12-18 22:50:04,General Fitness
+048,lisa,lisa955@hotmail.com,Singapore,Premium,4,True,2023-11-10 22:50:04,Rehab
+049,Eric,eric349@gmail.com,Germany,Premium,7,False,,General Fitness
+050,Sierra,sierra606@yahoo.com,USA,Standard,8,True,2025-04-09 22:50:04,Endurance

@@ -1,6 +1,4 @@
-# Project Brief
-
-## Outstanding Balance Notification
+# Outstanding Balance Notification
 
 An adhoc account balance reminder email is being set up to go out to selected customers, and a target audience should be created.
 

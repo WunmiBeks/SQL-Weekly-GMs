@@ -1,6 +1,6 @@
 # Project Brief - Lumos Collective
 
- We’re running a big 48-hour Flash Sale starting this weekend, and I need your help with the audience pull.  
+ There is a big 48-hour Flash Sale starting this weekend, and help is needed with the audience pull.  
 
 ## Requirements
 - They must be Active customers.  

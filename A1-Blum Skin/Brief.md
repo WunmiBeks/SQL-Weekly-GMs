@@ -1,6 +1,6 @@
 # Spring Refresh Campaign Brief 
 
-## Overview
+## Requirements
 The **Spring Refresh Campaign** is scheduled to launch this **Friday**.  
 This campaign requires a **targeted audience segment** for the email distribution.
 
